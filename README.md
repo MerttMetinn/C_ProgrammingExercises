@@ -5,4 +5,4 @@
 | Video | Amaç | Çözüm |
 |:--:|:--:|:--:|
 | 1 | 1 den 100 e kadar sayıların toplamını veren program  |  |
-| 2 |   |  |
+| 2 |  Burası güncellenecek |  |
