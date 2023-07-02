@@ -6,3 +6,9 @@
 |:--:|:--:|:--:|
 | 1 | 1 den 100 e kadar sayıların toplamını veren program  |  |
 | 2 |  Burası güncellenecek |  |
+| 3 |  Burası güncellenecek |  |
+| 4 |  Burası güncellenecek |  |
+| 5 |  Burası güncellenecek |  |
+| 6 |  Burası güncellenecek |  |
+| 7 |  Burası güncellenecek |  |
+
