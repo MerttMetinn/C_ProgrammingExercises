@@ -24,6 +24,9 @@
 | 19 | Hipotenüs hesaplama kodu | [Çözüm için tıkla](https://github.com/MerttMetinn/Mucit_Yazilim_C_Programlama_Ornekleri/blob/main/1%20-%2030%20aras%C4%B1%20problemler/19.Video%20%C3%87%C3%B6z%C3%BCm%C3%BC.c)|
 | 20 | Daire alan ve çevresini hesaplama kodu fonksiyonlarla | [Çözüm için tıkla](https://github.com/MerttMetinn/Mucit_Yazilim_C_Programlama_Ornekleri/blob/main/1%20-%2030%20aras%C4%B1%20problemler/20.Video%20%C3%87%C3%B6z%C3%BCm%C3%BC.c)|
 | 21 | Negatif sayı girilene kadar toplamı, ortalaması ve adetini bulma c kodu | [Çözüm için tıkla](https://github.com/MerttMetinn/Mucit_Yazilim_C_Programlama_Ornekleri/blob/main/1%20-%2030%20aras%C4%B1%20problemler/21.Video%20%C3%87%C3%B6z%C3%BCm%C3%BC.c)|
+| 22 | Kürenin alanı ve hacmini bulan kod | [Çözüm için tıkla](https://github.com/MerttMetinn/Mucit_Yazilim_C_Programlama_Ornekleri/blob/main/1%20-%2030%20aras%C4%B1%20problemler/22.Video%20%C3%87%C3%B6z%C3%BCm%C3%BC.c)|
+| 23 | Diziye rastgele sayılar atama ve toplama c kodu | [Çözüm için tıkla](https://github.com/MerttMetinn/Mucit_Yazilim_C_Programlama_Ornekleri/blob/main/1%20-%2030%20aras%C4%B1%20problemler/23.Video%20%C3%87%C3%B6z%C3%BCm%C3%BC.c)|
+| 24 | İki sayı arasındaki asal sayılan listeleme c kodu | [Çözüm için tıkla](https://github.com/MerttMetinn/Mucit_Yazilim_C_Programlama_Ornekleri/blob/main/1%20-%2030%20aras%C4%B1%20problemler/24.Video%20%C3%87%C3%B6z%C3%BCm%C3%BC.c)|
 |  |   | [Çözüm için tıkla]()|
 
 Devam Edecek...
